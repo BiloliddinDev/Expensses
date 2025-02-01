@@ -1,0 +1,31 @@
+54 
+
+54 | 2
+27 | 3
+9  | 3
+3  | 3
+1 
+
+Tubbing ko'paytiruvchilarini ajratib chiqdik:
+
+	  1    3
+54 = 2 * 3 = 
+
+Darajalarga ajratib chiqdik:
+
+54 = (1+1) * (3+1) = 2 * 4 = 8
+
+54 sonining nechta natural songa bo'luvchilar sonini topish yo'li:
+
+54 = 1, 2, 3, 6, 9, 18, 27, 54
+
+
+
+
+
+
+Y(18) = 21*32 = 21+1-1
+
+    32+1-1  = (4-1) * (27-1) =
+                            2 – 1  *  3 – 1                     2
+=3*13=39
